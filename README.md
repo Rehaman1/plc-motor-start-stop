@@ -30,10 +30,9 @@ This is my first PLC programming project, developed to practise basic motor cont
 - [ ] Press START: motor ON
 - [ ] Release START: motor remains ON
 - [ ] Press STOP: motor OFF
-- [ ] Overload trip: motor OFF, if implemented
 
 ## Tools Used
-- PLC Ladder Logic simulator: [Add your simulator name]
+- PLC Ladder Logic simulator: [Motor test]
 - Programming language: Ladder Diagram (LD)
 
 ## Project Status
@@ -43,5 +42,5 @@ Completed beginner learning project / simulation.
 This is an educational project. Real motor installations require suitable electrical protection, correctly designed control circuits and qualified commissioning.
 
 ---
-**Author:** Rahaman Sheikh  
-**Portfolio focus:** PLC Programming | Electrical Commissioning | Industrial Automation
+Rahaman Sheikh  
+PLC Programming | Electrical Commissioning | Industrial Automation
